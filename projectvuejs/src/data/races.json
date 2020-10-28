@@ -1,0 +1,61 @@
+{
+    "name": " Les Races",
+    "races": [
+      {
+        "name": "Demi-elfes",
+        "carac": "Charisme +2 , Deux autres valeurs de votre choix +1 ",
+        "taille": "Entre 1.50 mètre et 1.80 mètre",
+        "vitesse": "9m",
+        "Competence": "Vision dans le noir , Ascendant féerique , Polyvalence",
+        "langue": "Commun , Elfique et une autre langue de votre choix "
+      },
+      {
+        "name": "Demi-orc",
+        "carac": "Force +2 , Constitution +1 ",
+        "taille": "Entre 1.60 mètre et 2 mètre",
+        "vitesse": "9m",
+        "Competence": "Vision dans le noir , Menaçant , Acharnement, Sauvagerie",
+        "langue": "Commun , Orc "
+      },
+      {
+        "name": "Elfes",
+        "carac": "Dexterité +2  ",
+        "taille": "Entre 1.60 mètre et 1.80 mètre",
+        "vitesse": "9m",
+        "Competence": "Vision dans le noir , Sens aiguisé , Ascendant féerique , Transe",
+        "langue": "Commun , Elfique "
+      },
+      {
+        "name": "Gnome",
+        "carac": "Intelligence +2  ",
+        "taille": "Entre 0.90 mètre et 1.20 mètre",
+        "vitesse": "7.50m",
+        "Competence": "Vision dans le noir , Ruse Gnome ",
+        "langue": "Commun , Gnome "
+      },
+      {
+        "name": "Halfelin",
+        "carac": "Dexterité +2  ",
+        "taille": "Entre 0.50 mètre et 0.90 mètre",
+        "vitesse": "7.50m",
+        "Competence": "Chanceux , Brave , Agilité Halfeline",
+        "langue": "Commun , Halfelin "
+      },
+      {
+        "name": "Humain",
+        "carac": "Toute vos caractéristique +1 ",
+        "taille": "Entre 1.50 mètre et 1.90 mètre",
+        "vitesse": "9m",
+        "Competence": "",
+        "langue": "Commun  "
+      },
+      {
+        "name": "Nain",
+        "carac": "Constitution +2  ",
+        "taille": "Entre 1.20 mètre et 1.50 mètre",
+        "vitesse": "7.50m",
+        "Competence": "Vision dans le noir , Resistance Naine , Entrainement au armes naines, Maitrise des outils , Connaissance de la pierre",
+        "langue": "Commun , Nain "
+      }
+    ]
+  }
